@@ -1,0 +1,41 @@
+﻿Introdução ao HTML e CSS
+
+
+-> Navegador (Edge ou Chrome) de preferência
+-> Visual Studio code (para codar).
+
+
+Criando um arquivo HTML
+-> Crie um arquivo chamado index.html.
+
+
+O que significa HTML?
+-> Hypertext markup language.
+_________________________________________________________
+
+
+Tags HTML
+-> strong (deixa o texto em negrito)
+        -> Exemplo: <strong>HTML</strong> e/ou <b>HTML</b>
+
+
+-> p (cria um parágrafo)
+-> Exemplo: <p>Aprendendo HTML</p>
+
+
+-> a (cria um link através do atributo href)
+        -> Exemplo: <a href="https://"> teste </a>
+_________________________________________________________
+
+
+Comentário em HTML
+-> Para fazer comentários em HTML basta utilizar
+        -> <!-- colocar texto na tela sem aparecer -->
+
+
+_________________________________________________________
+
+Principais elementos HTML
+
+https://efficient-sloth-d85.notion.site/Principais-elementos-HTML-da8b750fee5b49f2923fdc35b1c921fc#a16d3741658c41d283efe3780c373257
+

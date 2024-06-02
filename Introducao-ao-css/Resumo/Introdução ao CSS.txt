@@ -1,0 +1,95 @@
+﻿Introdução ao CSS
+
+
+-> Cascading Style Sheets.
+
+
+Exemplo CSS no arquivo HTML
+
+
+<style>
+   p {
+       color: blue;
+   }
+</style>
+
+
+<p>
+   Aprendendo CSS
+</p>
+
+
+p {} -> É o seletor (referência a um ou mais elementos html)
+{} -> Bloco de declarações CSS, sendo composto por propriedade + : + valor + ;
+
+
+-> Se tiver o mesmo seletor declaro  com a mesma propriedade sempre será levado em consideração o último declado (pois é em cascada).
+_________________________________________________________
+
+
+Exemplo CSS inline 
+
+
+<p style="color: blue;">
+   Aprendendo CSS
+</p>
+
+
+
+
+-> Estilo aplicado direto na tag tem mais peso do que aplicado no arquivo HTML, por exemplo! Devido a expressividade.
+
+
+Atributo ID
+
+
+-> Serve para identificar uma tag
+<style>
+   p {
+       color: blue;
+   }
+
+
+   #a {
+       color: red;
+   }
+</style>
+
+
+<p style="color: blue;">
+   Aprendendo CSS
+</p>
+
+
+<p id="a">
+   Aprendendo CSS
+</p>
+
+
+-> Sempre utilizar sempre um nome de ID por tag.
+_________________________________________________________
+
+
+Comentários em CSS
+
+
+-> /* color: red;  */
+        -> Exemplos:
+<style>
+   /*
+   p {
+       color: blue;
+   }
+
+
+   #a {
+       color: red;
+   }
+   */
+</style>
+
+
+/* Especificidade */
+   #a {
+       color: red;
+   }
