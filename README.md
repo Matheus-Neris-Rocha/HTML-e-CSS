@@ -1,11 +1,13 @@
 # HTML-e-CSS
 
-Projeto 01 -> Móveis customizados <br/>
-Link do projeto: [https://html-e-css-bay.vercel.app/](https://moveis-customizados-blush.vercel.app/)
+Este repositório contém os materiais e códigos do curso de Introdução ao HTML e CSS oferecido pela Rocketseat. Durante o curso, foram abordados conceitos básicos de HTML e CSS, com ênfase em tags semânticas do HTML e funcionamento básico de estilização com CSS.
 
-![Captura de Tela 2024-06-03 às 07 39 24](https://github.com/Matheus-Neris-Rocha/HTML-e-CSS/assets/171521660/a63220b3-fd93-4662-9ec8-3bf67381984d)
+## Tópicos Abordados:
+- Utilização de tags semânticas do HTML, como `<header>`, `<footer>`, `<nav>`, etc.
+- Estruturação básica de documentos HTML
+- Estilização básica com CSS
 
-Projeto 02 -> Flutuar <br/>
-Link do projeto: https://html-e-css-m9o7.vercel.app/
-
-![image](https://github.com/Matheus-Neris-Rocha/HTML-e-CSS/assets/171521660/136d9999-e19e-4425-8ebf-fe91c200ddd6)
+## Como Utilizar Este Repositório:
+1. Clone ou faça um fork deste repositório para acessar os materiais do curso.
+2. Consulte os códigos de exemplo e desafios propostos durante o curso.
+3. Esteja atento às atualizações regulares para obter novos materiais de aula e recursos.
